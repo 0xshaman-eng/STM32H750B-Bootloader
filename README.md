@@ -24,10 +24,6 @@ A fail-safe custom bootloader for the **STM32H750B-DK** discovery kit. It runs f
 | `main` | Stable, tested releases |
 | `develop` | Active development |
 
-## Status
-
-🚧 Under development. Source code and full documentation will be added in upcoming releases.
-
 ## Author
 
 Shaman Karunaratne
