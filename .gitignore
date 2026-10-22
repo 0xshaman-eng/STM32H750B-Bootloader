@@ -1,0 +1,20 @@
+# STM32CubeIDE / Eclipse junk
+Debug/
+Release/
+bin/
+obj/
+*.o
+*.elf
+*.list
+*.map
+*.d
+*.su
+*.launch
+
+# User-specific settings (don't share these)
+.settings/
+.atp/
+
+# OS junk
+Thumbs.db
+.DS_Store
